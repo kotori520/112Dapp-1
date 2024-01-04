@@ -102,7 +102,7 @@ abi =
 			"type": "function"
 		}
 	]
-address ='0x8a6dC471e9F2A73f259b1cdFf8658317084C8573';
+address ='0x9Af07eBeF2f1455Da9629986301f40544116b396';
 ethereum.request({ method: 'eth_accounts' }).then(result => myMetaMaskWallet = result);
 
 const INFURA_API_KEY = '45a27bf77c7d4f70a744a35738ec07b7';
